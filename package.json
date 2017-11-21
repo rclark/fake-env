@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rclark/fake-env/issues"
   },
-  "homepage": "https://github.com/rclark/fake-env#readme"
+  "homepage": "https://github.com/rclark/fake-env#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
 }
