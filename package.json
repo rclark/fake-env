@@ -1,0 +1,19 @@
+{
+  "name": "fake-env",
+  "version": "1.0.0",
+  "description": "Fakeout your environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rclark/fake-env.git"
+  },
+  "author": "Ryan Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rclark/fake-env/issues"
+  },
+  "homepage": "https://github.com/rclark/fake-env#readme"
+}
